@@ -1,2 +1,2 @@
 # lecture-10
-lecture10homework
+https://guro00.github.io/lecture-10/
