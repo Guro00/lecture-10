@@ -1,0 +1,33 @@
+@media (max-width: 1300px) {
+    .konteineri {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1196px) {
+    .card {
+        justify-content: space-around;
+    }
+    .s-2flex {
+        flex-direction: column;
+        align-items: center;
+    }
+    .info {
+        width: 80%;
+    }
+}
+
+@media (max-width: 900px) {
+    .fa-bars {
+        display: block;
+    }
+    nav {
+        display: none;
+    }
+}
+
+@media (max-width: 860px) {
+    .card {
+        width: 80%;
+    }
+}
